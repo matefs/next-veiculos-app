@@ -33,6 +33,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 | /api | Numero total de veículos cadastrados |
 
 
-## Paginação trazendo número limitado de registros
+## Paginação trazendo número limitado de registros:
 
 ![EXPLICACAO-GITHUB-](https://user-images.githubusercontent.com/30128774/212561128-042bdd25-363c-4b5a-87e8-9ead1df0a8eb.gif)
