@@ -10,6 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 1. Download the code ``` git clone https://github.com/matefs/next-veiculos-app.git ``` 
 2. Install and run the development server: 
 
+
 ```bash
 
 # install
