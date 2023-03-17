@@ -1,6 +1,6 @@
 ## NextJS Veiculos App 
 
-Projeto feito consumindo a api criada no repositório `https://github.com/matefs/backend-ver-placas-utlizadas`
+Projeto feito consumindo a api criada no repositório: `https://github.com/matefs/backend-ver-placas-utlizadas`
 
 ![mostrando telas do projeto ](https://user-images.githubusercontent.com/30128774/212561766-51ad35fc-e485-41da-bd3f-e49d62822906.gif)
 
