@@ -11,6 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 2. Install and run the development server: 
 
 
+
 ```bash
 
 # install
